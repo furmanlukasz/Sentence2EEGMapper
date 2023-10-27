@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info
+*.egg
+*.log
+
+# Virtual environment
+venv/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Config files (depending on sensitivity of data)
+# config.yaml
+
+# Other
+*.bak
+*.swp
+*.swo

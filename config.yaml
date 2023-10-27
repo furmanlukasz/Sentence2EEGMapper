@@ -1,0 +1,58 @@
+WPM: 65 # words per minute
+AVERAGE_WORD_LENGTH: 5.5 # in characters
+FONT_SIZE: 130 # in pixels
+SENTENCES_DIR_NAME: 'Corpus-train' # name of the directory containing the sentences
+WAV_DIR_NAME: 'Corpus-train-wav' # name of the directory containing the wav files
+DIRECTORY_OUT: 'RawSessions/raw' # directory where the output will be saved
+TOKENIZER_TYPE: 'bert-base-uncased' # tokenizer type from huggingface transformers library (https://huggingface.co/transformers/pretrained_models.html)
+DISPLAY_LENGTH: 2 # number of seconds to display preview of EEG data
+SAMPLE_RATE: 512 # sample rate of the EEG data
+CHANNELS_NAMES:  # names of the channels in the EEG data
+  - 'Fp1'
+  - 'Fpz'
+  - 'Fp2'
+  - 'F7'
+  - 'F3'
+  - 'Fz'
+  - 'F4'
+  - 'F8'
+  - 'FC5'
+  - 'FC1'
+  - 'FC2'
+  - 'FC6'
+  - 'AFz'
+  - 'T7'
+  - 'C3'
+  - 'Cz'
+  - 'C4'
+  - 'T8'
+  - 'FT10'
+  - 'CP5'
+  - 'CP1'
+  - 'CP2'
+  - 'CP6'
+  - 'P7'
+  - 'P3'
+  - 'P4'
+  - 'P8'
+  - 'FT9'
+  - 'O1'
+  - 'Oz'
+  - 'O2'
+DEFAULT_VISIBLE_ELECTRODES:  # names of the channels to display by default
+  - 'Fp1'
+  - 'Fp2'
+  - 'F7'
+  - 'F8'
+  - 'T7'
+  - 'C3'
+  - 'Cz'
+  - 'C4'
+  - 'T8'
+  - 'CP1'
+  - 'CP2'
+  - 'P7'
+  - 'P8'
+  - 'O1'
+  - 'O2'
+
