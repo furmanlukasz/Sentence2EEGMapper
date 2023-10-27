@@ -1,7 +1,3 @@
-Certainly! Below is a draft of a README file for your project. I've included placeholders (`<PLACEHOLDER>`) where specific information might be required from you.
-
----
-
 # Sentence2EEGMapper 📄->😶->🧠->🗂️
 
 ## Description
