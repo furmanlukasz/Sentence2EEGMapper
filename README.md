@@ -1,4 +1,4 @@
-# Sentence2EEGMapper 📄->😶->🧠->🗂️
+# Sentence2EEGMapper 📄➪😶➪🧠➪🗂️
 
 ## Description
 
